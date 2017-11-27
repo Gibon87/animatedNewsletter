@@ -28,7 +28,7 @@ body {
   background: #4d0799;
 }
 .overlay {
-  /*background: #060c0c;*/
+  /*background: #fff;*/
   position: absolute;
   bottom: 50px;
   right: 50px;
@@ -37,10 +37,10 @@ body {
   width: 100%;
   transform: scale(0);
   transform-origin: bottom right;
-  border-radius: 50%
+  /*border-radius: 50%;   === working only when You have active background in overlay==  */
 }
 .overlay.active {
-  border-radius: 0;
+  /*border-radius: 0; == the same situation as above == */
   transform: scale(1);
   bottom: 0;
   right: 0;
