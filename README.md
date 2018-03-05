@@ -3,6 +3,8 @@
 <p> Hey,<br>
 The windows will pop up, when You just click on the icon ;) </p>
 
+Demo: https://gibon87.github.io/animatedNewsletter/
+
 <h2>How to use: </h2>
 <ol>
   <li>It is sooo simple .</li>
